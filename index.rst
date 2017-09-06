@@ -9,7 +9,7 @@ Amber Connect
    :caption: Live Tracking
    :maxdepth: 1
 
-   Tracking/Live Tracking/index
+   Tracking/LiveTracking/index
 
 .. toctree::
    :caption: Trips
